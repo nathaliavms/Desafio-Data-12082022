@@ -10,11 +10,8 @@ Mostre a seguinte mensagem: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” .
 
 # Exemplo de Entrada 
 7 
-
 8 
-
 9 
-
 10 
 # Exemplo de Saída
 O JOGO DUROU 2 HORA(S) E 2 MINUTO(S)
